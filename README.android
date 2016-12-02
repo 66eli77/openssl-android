@@ -1,5 +1,4 @@
 OpenSSL on the Android platform.
-# Updated NDK_TOOLCHAIN_VERSION to 4.9
 ---
 
 The code in this directory is based on $OPENSSL_VERSION in the file
